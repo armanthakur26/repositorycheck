@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "IJ/+M3JtEgcEIWcnGNy6We2VZFV3Sylo+/VEAYPV/QA=",
+  "Source": "imageupload",
+  "BasePath": "_content/imageupload",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "imageupload\\wwwroot",
+      "Source": "imageupload",
+      "ContentRoot": "C:\\Users\\Arman Thakur\\Desktop\\.net\\imageupload\\wwwroot\\",
+      "BasePath": "_content/imageupload",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Arman Thakur\\Desktop\\.net\\imageupload\\wwwroot\\uploads\\arman.jpg",
+      "SourceId": "imageupload",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Arman Thakur\\Desktop\\.net\\imageupload\\wwwroot\\",
+      "BasePath": "_content/imageupload",
+      "RelativePath": "uploads/arman.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\arman.jpg"
+    }
+  ]
+}

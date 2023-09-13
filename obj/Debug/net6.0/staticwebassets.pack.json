@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Arman Thakur\\Desktop\\.net\\imageupload\\wwwroot\\uploads\\arman.jpg",
+      "PackagePath": "staticwebassets\\uploads\\arman.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.imageupload.props",
+      "PackagePath": "build\\imageupload.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.imageupload.props",
+      "PackagePath": "buildMultiTargeting\\imageupload.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.imageupload.props",
+      "PackagePath": "buildTransitive\\imageupload.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.imageupload.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
